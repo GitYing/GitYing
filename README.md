@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gitying&theme=nord&column=7)](https://github.com/gitying)
 <!--
 **GitYing/GitYing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

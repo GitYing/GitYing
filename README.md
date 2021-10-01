@@ -15,4 +15,4 @@
 - 🌍 I'm mostly active within the **Shopify Community**
 - 🌱 Learning all about **Web App Development**
 - 💬 Ping me about **design**, **branding**, **shopify**, **web development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://utopiaagency.com.au)
+- 📫 Reach me: [UtopiaAgency](https://utopiaagency.com.au)
